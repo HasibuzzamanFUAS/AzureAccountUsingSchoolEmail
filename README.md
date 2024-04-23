@@ -20,9 +20,9 @@ Now you will see the below window then choose I am a student.
 
 **Step 3:**
 
-Now you have check your email first to get the verification code that has been sent to your registered email address, 
+Now you have to check your email first to get the verification code that has been sent to your registered email address, 
 
-as you have shown in the attachment, then fill all the information and move forward.
+as you have shown in the attachment, then fill in all the information and move forward.
 
 ![1 3](https://github.com/HasibuzzamanFUAS/AzureAccountUsingSchoolEmail/assets/57929194/61b9bff0-1ff1-4592-831e-96dfe4e13508)
 
