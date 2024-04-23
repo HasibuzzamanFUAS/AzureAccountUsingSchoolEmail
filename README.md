@@ -46,7 +46,7 @@ It's time to sign up for your Azure account.
 ![1 7](https://github.com/HasibuzzamanFUAS/AzureAccountUsingSchoolEmail/assets/57929194/232ab660-70fb-4cf5-8f65-3bb989c5b91b)
 
 
-**Step 5:**
+**Step 6:**
 
 Fill again all the information that you are being asked to verify your academic status.
 then also confirm from your email if needed.
